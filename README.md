@@ -1,10 +1,10 @@
 ## 👋 About me 
 
-My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. Working with software since 2016 I have faced some big challenges and a lot of new technologies and today I treat the tools that I know as a way to solve problems and generate value for everyone involved.
+My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. I have been working with software since 2016 where I faced some great challenges and many new technologies and today I treat the tools I know as a way to solve problems and generate value for everyone involved.
 
 ## 🔭 I’m currently working at Geekhunter as a Fullstack Software Engineer.
 
-Here at Geekhunter we have a Marketplace built with Rails that is our main apllication, along with that we have some services built with python, React and a lot of AWS solutions like SQS, Lambda and Api Gateway.
+Here at Geekhunter we have a Marketplace built with Rails which is our main apllication, along with that we have some services built with Python, React and several AWS solutions such as SQS, Lambda and Api Gateway.
 
 ## 🌱 I’m currently learning 
 
