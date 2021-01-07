@@ -21,8 +21,9 @@ Here at Geekhunter we have a Marketplace built with Rails which is our main apll
 
 ## 📫 How to reach me:
 
-- Twitter: @lpiczz
-- Twitch: lpicollo
+- Twitter: [@lpiczz](https://twitter.com/lpiczz)
+- Twitch: [lpicollo](https://twitch.tv/lpicollo)
+- Linkedin: [lucas-picollo](https://www.linkedin.com/in/lucas-picollo/)
 
 ## 😄 Pronouns: He/Him
 
