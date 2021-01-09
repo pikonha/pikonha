@@ -4,7 +4,7 @@ My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. I have been wo
 
 ## 🔭 I’m a Fullstack Software Engineer at Geekhunter
 
-Here at Geekhunter we have a Marketplace built with Rails which is our main apllication, along with that we have some services built with Python, React and several AWS solutions such as SQS, Lambda and Api Gateway.
+At Geekhunter we have a Marketplace built with Rails which is our main apllication, along with that we have some services built with Python, React and several AWS solutions such as SQS, Lambda and Api Gateway.
 
 ## 🌱 I’m currently learning 
 
@@ -12,7 +12,7 @@ Here at Geekhunter we have a Marketplace built with Rails which is our main apll
 - P5.js
 - Golang
 
-## ⛰️ My goals for 202 are:
+## ⛰️ My goals for 2021
 
 - Create a side project that people would really use
 - Keep doing live streaming
