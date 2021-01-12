@@ -1,6 +1,7 @@
 ## 👋 About me 
 
-My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. I have been working with software since 2016 where I faced some great challenges and many new technologies and today I treat the tools I know as a way to solve problems and generate value for everyone involved.
+My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. I have been working with software since 2016, currently at the 8th semester of System Information at UFSC. 
+Nowadays I see the tools I know as a way to solve problems and generate value for everyone involved, so I'm always trying to learn better ways to do so.
 
 ## 🔭 I’m a Fullstack Software Engineer at Geekhunter
 
