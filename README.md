@@ -10,8 +10,9 @@ At Geekhunter we have a Marketplace built with Rails which is our main apllicati
 ## 🌱 I’m currently learning 
 
 - Neo4j
-- P5.js
-- Golang
+- Clean Architecture
+- Domain Driven Design
+- NodeJS
 
 ## ⛰️ My goals for 2021
 
