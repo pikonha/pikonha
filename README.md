@@ -1,18 +1,18 @@
 ## 👋 About me 
 
-My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. I have been working with software since 2016, currently at the last semester of System Information at UFSC. 
+My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. I have been working with software since 2016, currently at the last semester of System Information at UFSC.
+###
 Nowadays I see the tools I know as a way to solve problems and generate value for everyone involved, so I'm always trying to learn better ways to do so.
 
-## 🌱 I’m currently learning 
+## 🌱 I use on daily basis
 
 - Ruby
 - Golang
-- Developer Experience
-- Machine Learning
+- [Vim](github.com/picolloo/dotfiles)
 
 ## ⛰️ My goals for 2021
 
-- Create a side project that people would really use
+- Create a project that people would really use
 - Keep doing live streaming
 - Improve my english
 - Learn some music theory
