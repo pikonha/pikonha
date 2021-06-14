@@ -8,7 +8,7 @@ Nowadays I see the tools I know as a way to solve problems and generate value fo
 
 - Ruby
 - Golang
-- [Vim](github.com/picolloo/dotfiles)
+- [Vim](https://github.com/picolloo/dotfiles)
 
 ## ⛰️ My goals for 2021
 
