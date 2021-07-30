@@ -8,14 +8,15 @@ Nowadays I see the tools I know as a way to solve problems and generate value fo
 
 - Ruby
 - Golang
+- Node
 - [Vim](https://github.com/picolloo/dotfiles)
 
 ## ⛰️ My goals for 2021
 
-- Create a project that people would really use
+- Get confident working with Golang
 - Keep doing live streaming
-- Improve my english
-- Learn some music theory
+- Improve english speaking
+- Learn music theory
 
 ## 📫 Reach me
 
