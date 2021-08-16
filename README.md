@@ -6,9 +6,8 @@ Nowadays I see the tools I know as a way to solve problems and generate value fo
 
 ## 🌱 I use on daily basis
 
-- Ruby
 - Golang
-- Node
+- Docker
 - [Vim](https://github.com/picolloo/dotfiles)
 
 ## ⛰️ My goals for 2021
