@@ -10,12 +10,20 @@ Nowadays I see the tools I know as a way to solve problems and generate value fo
 - Docker
 - [Vim](https://github.com/picolloo/dotfiles)
 
+## 📔 Currently learning
+
+- Golang
+- Kubernetes
+- gRPC
+- Developer Experience in general
+
 ## ⛰️ My goals for 2021
 
-- Get confident working with Golang
-- Keep doing live streaming
-- Improve english speaking
-- Learn music theory
+- [X] Get confident working with Golang
+- [ ] Keep doing live streaming
+- [X] Improve english speaking
+- [ ] Learn music theory
+- [ ] GRADUATE!!!!
 
 ## 📫 Reach me
 
