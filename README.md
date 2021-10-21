@@ -24,6 +24,7 @@ Nowadays I see the programming languages I know as tool to solve problems and ge
 - [ ] Do at least 1 live streaming per month
 - [X] Improve english speaking
 - [ ] Learn music theory
+- [ ] Reach 1000 contribuitions
 
 ## 📫 Reach me
 
