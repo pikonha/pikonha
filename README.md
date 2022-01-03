@@ -1,30 +1,36 @@
 ## 👋 About me 
 
-My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. I have been working with software since 2016 and recently graduate in System Information at UFSC.
+My name is Lucas Picollo and I'm from Florianopolis, SC - Brasil. I've been working with software since 2016, recently graduate in System Information at UFSC and I'm currently working for a company in the crypto space as a Software Engineer focused on Golang and Blockchain (we're hiring).
 ###
-Nowadays I see the programming languages I know as tool to solve problems and generate value for everyone involved. So I'm always trying to learn better ways to do so.
+I see the programming languages I know as tool to solve problems and generate value for everyone involved, so I'm always trying to learn better ways to do so.
 
 ## 🌱 I use on daily basis
 
 - Golang
-- Docker
+- Blockchain
+- Kubernetes
+- Terraform
 - [Vim](https://github.com/picolloo/dotfiles)
 
 ## 📔 Currently learning
 
+**Professional life**
 - Golang
-- Kubernetes
-- gRPC
-- Developer Experience in general
+- Blockchain
+- Software Architect
 
-## ⛰️ My goals for 2021
+**Personal life**
+- Yoga 🧘‍♂️
+- Jiu Jitsu
+- Calisthenics
 
-- [X] GRADUATE!!!! 🎓
-- [X] Get confident working with Golang
-- [ ] Do at least 1 live streaming per month
-- [X] Improve english speaking
-- [ ] Learn music theory
-- [ ] Reach 1000 contribuitions
+## ⛰️ My goals for 2022
+
+- [ ] Consider myself a Sofwtare Architect
+- [ ] Be able to explain crypto/blockchain concepts in a simple way so anyone can understand
+- [ ] Travel the world as a digital nomad 🥾👨‍💻
+- [ ] Be respected by the persons I work with and by the community
+- [ ] Be consistent in my long term plans
 
 ## 📫 Reach me
 
