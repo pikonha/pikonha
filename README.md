@@ -22,12 +22,7 @@ I see the programming languages I know as tool to solve problems and generate va
 - Yoga 🧘‍♂️
 - Photography
 - Calisthenics
-
-## ⛰️ My goals for 2022
-
-- [ ] Consider myself a Sofwtare Architect
-- [X] Be able to explain crypto/blockchain concepts in a simple way so anyone can understand
-- [X] Travel the world as a digital nomad 🥾👨‍💻
+- Philosophy
 
 ## 📫 Reach me
 
